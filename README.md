@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hola I am Nikhil 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CFD Applictions
 - 🌱 I’m currently learning CFD Coading
